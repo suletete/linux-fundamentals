@@ -1,4 +1,3 @@
-Here is the fully formatted write-up for **"INTRODUCTION TO LINUX"**, including the integration of your images located in the same directory (`2.2 ssh.png`, `2.5 access website.png`, `ssh key github account.gif`, `ssh key pair.png`). I've placed appropriate markdown image tags where the content refers to visuals. You can edit the alt texts or image names if necessary.
 
 ---
 
@@ -182,4 +181,4 @@ We’ll begin hands-on Linux projects involving:
 
 ---
 
-Let me know if you'd like this exported to **PDF**, **Markdown**, or a platform-specific format (e.g., blog, GitHub README).
+
